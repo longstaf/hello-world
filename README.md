@@ -2,4 +2,4 @@
 Hello world project
 ===================
 
-Hi Humans:
+Hi Humanoids:
